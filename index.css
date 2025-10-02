@@ -1,0 +1,103 @@
+.navbar-nav{
+    display: flex;
+    margin-left: 250px;
+    gap: 20px;
+}
+
+#frm{
+    margin-left: 120px;
+}
+#banner{
+    background-color: #730099;
+    border:solid;
+    border-color: #730099;;
+}
+#loc{
+    color: white;
+    /* align-content: center; */
+}
+
+#col{
+    padding-left: 500px;
+}
+
+#button{
+    border-color: white;
+    color: white;
+}
+.flash{
+    background-color: #fff;
+    border:none;
+    margin-left: 350px;
+
+}
+.row{
+    padding-top:20px;
+}
+.count{
+    font-weight: bold;
+}
+.row{
+    gap:10px;
+}
+#Iphone{
+    border:solid;
+    border-color: bisque;
+    box-shadow: #fff;
+    border-radius: 10px;
+    padding-top: 20px;
+   
+}
+#icn{
+    border: solid;
+    background-color: gainsboro;
+   border-radius: 20px;
+}
+/* #Iphone-amend{
+    padding-bottom: 50px;
+} */
+#amend{
+    height:200px;
+}
+#pne{
+    height: 200px;
+}
+#pic{
+    height: 200px;
+}
+#range{
+    /* background-color: gainsboro; */
+}
+#stake{
+    background-color:gainsboro;
+}
+.now{
+    background-color: #fff;
+    border-radius: 5px;
+}
+.won{
+    background-color: orangered;
+    border-radius: 5px;
+    border-color: orangered;
+}
+#tend{
+    height: 170px;
+}
+#nwimg2{
+    height: 150px;
+}
+#newaimg{
+height: 150px;
+}
+#nwimg2{
+    height: 150px;
+}
+#nwimg3{
+    height: 150px;
+}
+#mend{
+    height: 150px;
+}
+#pin{
+  margin-left: 30px;
+}
